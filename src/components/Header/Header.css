@@ -1,18 +1,13 @@
 .header img{
-    height: 80px; 
-     
+    height: 80px;
 }
 .header{
     text-align: center;
 }
 .header nav{
-    background-color: goldenrod;
+    background-color: black;
     line-height: 40px;
     font-size: 20px;
-    position:static;
-    width: 100%;
-    overflow: hidden;
-    
 }
 nav a{
     text-decoration: none;
